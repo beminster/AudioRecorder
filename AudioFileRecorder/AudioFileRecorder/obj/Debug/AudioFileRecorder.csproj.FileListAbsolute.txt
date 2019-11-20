@@ -1,0 +1,36 @@
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\AudioFileRecorder\AudioFileRecorder\bin\Debug\AudioFileRecorder.exe.config
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\AudioFileRecorder\AudioFileRecorder\bin\Debug\AudioFileRecorder.exe
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\AudioFileRecorder\AudioFileRecorder\bin\Debug\AudioFileRecorder.pdb
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\AudioFileRecorder\AudioFileRecorder\bin\Debug\NAudio.dll
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\AudioFileRecorder\AudioFileRecorder\bin\Debug\NAudio.xml
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\AudioFileRecorder\AudioFileRecorder\bin\Debug\Interop.WMPLib.dll
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\AudioFileRecorder\AudioFileRecorder\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\AudioFileRecorder\AudioFileRecorder\obj\Debug\Interop.WMPLib.dll
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\AudioFileRecorder\AudioFileRecorder\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\AudioFileRecorder\AudioFileRecorder\obj\Debug\AudioFileRecorder.csproj.ResolveComReference.cache
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\AudioFileRecorder\AudioFileRecorder\obj\Debug\AudioFileRecorder.AddAccount.resources
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\AudioFileRecorder\AudioFileRecorder\obj\Debug\AudioFileRecorder.Form1.resources
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\AudioFileRecorder\AudioFileRecorder\obj\Debug\AudioFileRecorder.Properties.Resources.resources
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\AudioFileRecorder\AudioFileRecorder\obj\Debug\AudioFileRecorder.csproj.GenerateResource.Cache
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\AudioFileRecorder\AudioFileRecorder\obj\Debug\AudioFileRecorder.exe
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\AudioFileRecorder\AudioFileRecorder\obj\Debug\AudioFileRecorder.pdb
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\AudioFileRecorder\AudioFileRecorder\obj\Debug\AudioFileRecorder.csprojResolveAssemblyReference.cache
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\bin\Debug\AudioFileRecorder.exe.config
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\bin\Debug\AudioFileRecorder.exe
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\bin\Debug\AudioFileRecorder.pdb
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\bin\Debug\NAudio.dll
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\bin\Debug\NAudio.xml
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\bin\Debug\Interop.WMPLib.dll
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\obj\Debug\AudioFileRecorder.csprojAssemblyReference.cache
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\obj\Debug\Interop.WMPLib.dll
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\obj\Debug\AudioFileRecorder.csproj.ResolveComReference.cache
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\obj\Debug\AudioFileRecorder.AddAccount.resources
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\obj\Debug\AudioFileRecorder.Form1.resources
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\obj\Debug\AudioFileRecorder.Properties.Resources.resources
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\obj\Debug\AudioFileRecorder.csproj.GenerateResource.cache
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\obj\Debug\AudioFileRecorder.csproj.CoreCompileInputs.cache
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\obj\Debug\AudioFileRecorder.csproj.CopyComplete
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\obj\Debug\AudioFileRecorder.exe
+C:\Users\bminster\Documents\Visual Studio 2013\Projects\Z DEPRECATED PROJECTS\AudioFileRecorder\AudioFileRecorder\obj\Debug\AudioFileRecorder.pdb
